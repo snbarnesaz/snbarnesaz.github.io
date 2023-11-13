@@ -33,11 +33,6 @@ Please see the files below to understand how I installed the necessary resources
 [View Proj7_PowerPoint](Project_7%20PowerPoint.pptx)
 
 
-
-
-
-
-
 <a class="anchor" id="about-project-8"></a>
 >## About Project 8
 Project 8 analyzed the Monthly Retail Trade Survey (MRTS data) to identify sales trends and correlation among industry categories over time. The project included setting up an SQL server in Docker and connecting it to VS Code using Python's pyodbc library. I also identified correlation among sales for New Car Dealers, Gasoline Stations and Fuel Dealers - and then created a heatmap of this correlation using Pearson's Correlation Coefficent and Python's seaborn library. Please see the files below. 
@@ -50,19 +45,19 @@ Project 8 used several Python libraries such as numpy, pandas, and seaborn. I al
 >## Project 8 Installation
 Please see the files below to understand how I installed the necessary resources to complete this project.
 
+<a class="anchor" id="project-8-files"></a>
+>## Project 8 Files
+
+[View Proj8_FINAL Notebook](Proj8_FINAL.py.ipynb)
+
+[View Project 8 Steps](Project%208%20Steps%20Taken.docx)
+
+
 <a class="anchor" id="contact"></a>
 >## Contact Information
 [Stephen Barnes, email](snbarnesaz@gmail.com)
 
 [Stephen Barnes, LinkedIn](https://www.linkedin.com/in/stephen-barnes-482499101/)
-
-<a class="anchor" id="project-8-files"></a>
->## Project 8 Files
-
-
-[View Proj8_FINAL Notebook](Proj8_FINAL.py.ipynb)
-
-[View Project 8 Steps](Project%208%20Steps%20Taken.docx)
 
 
 ![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
