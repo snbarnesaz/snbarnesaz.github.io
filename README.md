@@ -1,4 +1,5 @@
-# Stephen Barnes README File with Links to My Projects
+# Stephen Barnes' README. 
+# See below Projects from Modules 7 (Housing Prices) & 8 (MRTS data)
 
 >## Table of Contents
 * [About Project 7](#about-project-7)
