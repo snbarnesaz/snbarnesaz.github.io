@@ -1,4 +1,4 @@
-## Stephen Barnes README File with Links to My Projects
+## Stephen Barnes README File with Links to My Projects (more to come!)
 
 [View Proj7_FINAL Notebook](Proj7_FINAL.ipynb)
 
