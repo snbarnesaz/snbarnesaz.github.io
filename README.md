@@ -62,4 +62,7 @@ Please see the files below to understand how I installed the necessary resources
 
 [View Proj8_FINAL Notebook](Proj8_FINAL.py.ipynb)
 
+[View Project 8 Steps](Project%208%20Steps%20Taken.docx)
+
+
 ![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
