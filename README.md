@@ -29,6 +29,7 @@ Please see the files below to understand how I installed the necessary resources
 >## Project 7 Files
 
 [View Proj7_FINAL Notebook](Proj7_FINAL.ipynb)
+
 [View Proj7_PowerPoint](Project_7%20PowerPoint.pptx)
 
 
