@@ -1,5 +1,5 @@
 # Stephen Barnes' README. 
-# See below Projects from Modules 7 (Housing Prices) & 8 (MRTS data)
+# See Projects: Module 7 (Housing Prices) & Module 8 (MRTS Data)
 
 >## Table of Contents
 * [About Project 7](#about-project-7)
