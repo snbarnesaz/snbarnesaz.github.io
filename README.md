@@ -1,4 +1,4 @@
-## This is my readme file in markup
+## Stephen Barnes README File with Links to My Projects
 
 [View Proj7_FINAL Notebook](Proj7_FINAL.ipynb)
 
