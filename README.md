@@ -2,7 +2,7 @@
 ## Projects: Module 7 (Housing Prices) & Module 8 (MRTS Data)
 
 >## Table of Contents
-* [About Project 7](#project-7-about)
+* [Project 7 Overview](#project-7-about)
 * [Project 7 Tools](#project-7-tools)
 * [Project 7 Installation](#project-7-installation)
 * [Project 7 Files](#project-7-files)
