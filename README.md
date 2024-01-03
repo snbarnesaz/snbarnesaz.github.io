@@ -3,8 +3,8 @@
 
 >## Table of Contents
 * [About Project 7](#about-project-7)
-* [About Project 8](#about-project-8)
 * [Project 7 Tools](#project-7-tools)
+* [About Project 8](#about-project-8)
 * [Project 8 Tools](#project-8-tools)
 * [Project 7 Installation](#project-7-installation)
 * [Project 8 Installation](#project-8-installation)
