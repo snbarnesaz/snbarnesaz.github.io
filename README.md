@@ -8,9 +8,7 @@
 * [Project 7 Files](#project-7-files)
 * [About Project 8](#about-project-8)
 * [Project 8 Tools](#project-8-tools)
-* [Project 7 Installation](#project-7-installation)
 * [Project 8 Installation](#project-8-installation)
-* [Project 7 Files](#project-7-files)
 * [Project 8 Files](#project-8-files)
 * [Contact Information](#contact)
 
