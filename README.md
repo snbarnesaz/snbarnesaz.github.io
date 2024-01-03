@@ -49,8 +49,6 @@ Please see the files below to understand how I installed the necessary resources
 <a class="anchor" id="project-8-files"></a>
 >## Project 8 Files
 
-[View Proj8_FINAL Notebook](Proj8_FINAL.py.ipynb)
-
 [View Project 8 Steps](Project%208%20Steps%20Taken.docx)
 
 
