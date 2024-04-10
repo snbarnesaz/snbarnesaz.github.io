@@ -5,13 +5,6 @@
 ### MRTS Data ([About](#mrts-data), [Tools](#mrts-tools), [Installation](#mrts-installation), [Files](#mrts-files))
 ### Flask App
 
->## Table of Contents
-* [About MRTS Data](#mrts-data)
-* [MRTS Tools](#mrts-tools)
-* [MRTS Installation](#mrts-installation)
-* [MRTS Files](#mrts-files)
-* [Contact Information](#contact)
-
 
 <a class="anchor" id="about-housing-prices"></a>
 >## About Housing Prices
