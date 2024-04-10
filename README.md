@@ -1,7 +1,8 @@
 # Stephen Barnes' README. 
-## Project 2: Housing Prices
-## Project 3: MRTS Data
-## Project 4: Flask App
+## Projects: 
+# Housing Prices
+# MRTS Data
+# Flask App
 
 >## Table of Contents
 * [About Housing Prices](#about-housing-prices)
