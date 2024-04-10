@@ -29,7 +29,7 @@ Please see the files below to understand how I installed the necessary resources
 
 <a class="anchor" id="mrts-data"></a>
 >## About Monthly Retail Trade Survey (MRTS) Data
-This project analyzed the Monthly Retail Trade Survey (MRTS data) to identify sales trends and correlation among industry categories over time. The project included setting up an SQL server in Docker and connecting it to VS Code using Python's pyodbc library. I also identified correlation among sales for New Car Dealers, Gasoline Stations and Fuel Dealers - and then created a heatmap of this correlation using Pearson's Correlation Coefficent and Python's seaborn library. Please see the files below. 
+This project analyzed the Monthly Retail Trade Survey (MRTS) data to identify sales trends and correlation among industry categories over time. The project included setting up an SQL server in Docker and connecting it to VS Code using Python's pyodbc library. I also identified correlation among sales for New Car Dealers, Gasoline Stations and Fuel Dealers - and then created a heatmap of this correlation using Pearson's Correlation Coefficent and Python's seaborn library. Please see the files below. 
 
 <a class="anchor" id="mrts-tools"></a>
 >## MRTS Tools
