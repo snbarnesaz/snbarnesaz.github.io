@@ -15,25 +15,25 @@
 * [Contact Information](#contact)
 
 
-<a class="anchor" id="about-project-7"></a>
->## About Project 7
-Project 7 was an attempt to improve upon our professor's pricing model for home sales by analyzing the correlation of several independent x-variables to housing prices over time. Please see the files below.
+<a class="anchor" id="about-housing-prices"></a>
+>## About Housing Prices
+Project 2 was an attempt to improve upon our professor's pricing model for home sales by analyzing the correlation of several independent x-variables to housing prices, over time. Please see the files below.
 
-<a class="anchor" id="project-7-tools"></a>
->## Project 7 Tools
-Project 7 used several Python libraries such as numpy, pandas, sklearn and matplotlib. I also worked with Jupyter Notebook, csv files and excel to 'clean' the raw data (impute and/or drop data, as necessary) and created dataframes, histograms, and scatter graphs to vizualize the information.
+<a class="anchor" id="housing-prices-tools"></a>
+>## Housing Prices Tools
+Project 2 used several Python libraries such as numpy, pandas, sklearn and matplotlib. I also worked with Jupyter Notebook, csv files and excel to 'clean' the raw data (impute and/or drop data, as necessary) and created dataframes, histograms, and scatter graphs to vizualize the information.
 
-<a class="anchor" id="project-7-installation"></a>
->## Project 7 Installation
+<a class="anchor" id="housing-prices-installation"></a>
+>## Housing Prices Installation
 Please see the files below to understand how I installed the necessary resources to complete this project.
 
 
-<a class="anchor" id="project-7-files"></a>
->## Project 7 Files
+<a class="anchor" id="housing-prices-files"></a>
+>## Housing Prices Files
 
-[View Proj7_FINAL Notebook](Proj7_FINAL.ipynb)
+[View Housing Prices_FINAL Notebook](Housing_Prices_FINAL.ipynb)
 
-[View Proj7_PowerPoint](Project_7%20PowerPoint.pptx)
+[View Housing Prices_PowerPoint](Housing_Prices%20PowerPoint.pptx)
 
 
 <a class="anchor" id="about-project-8"></a>
