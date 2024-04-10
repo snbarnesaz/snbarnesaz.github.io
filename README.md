@@ -1,6 +1,6 @@
 # Stephen Barnes' README. 
 # Projects: 
-### Housing Prices ([About Housing Prices](#about-housing-prices),[Tools](#housing-prices-tools))
+### Housing Prices ([About Housing Prices](#about-housing-prices), [Tools](#housing-prices-tools), [Installation](#housing-prices-installation), [Files](#housing-prices-files))
 ### MRTS Data
 ### Flask App
 
