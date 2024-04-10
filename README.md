@@ -1,4 +1,4 @@
-# Stephen Barnes ([##Contact Information](#contact))
+# Stephen Barnes (##[Contact Information](#contact))
 # README 
 # Projects: 
 ### Housing Prices ([About](#about-housing-prices), [Tools](#housing-prices-tools), [Installation](#housing-prices-installation), [Files](#housing-prices-files))
