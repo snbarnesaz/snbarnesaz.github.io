@@ -31,7 +31,7 @@ Please see the files below to understand how I installed the necessary resources
 <a class="anchor" id="housing-prices-files"></a>
 >## Housing Prices Files
 
-[View Housing Prices_FINAL Notebook](Housing_Prices_FINAL.ipynb)
+[View Housing Prices FINAL Notebook](Housing_Prices_FINAL.ipynb)
 
 [View Housing Prices_PowerPoint](Housing_Prices_PP.pptx)
 
