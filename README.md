@@ -1,6 +1,5 @@
 # README
-## Stephen Barnes ([Contact Information](#contact))
-# Projects: 
+## Stephen Barnes' Projects ([Contact Information](#contact))
 ### Housing Prices ([About](#about-housing-prices), [Tools](#housing-prices-tools), [Installation](#housing-prices-installation), [Files](#housing-prices-files))
 ### MRTS Data ([About](#mrts-data), [Tools](#mrts-tools), [Installation](#mrts-installation), [Files](#mrts-files))
 ### Flask App
