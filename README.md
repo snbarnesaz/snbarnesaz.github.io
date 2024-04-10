@@ -1,15 +1,17 @@
 # Stephen Barnes' README. 
-## Projects: Module 7 (Housing Prices) & Module 8 (MRTS Data)
+## Project 2: Housing Prices
+## Project 3: MRTS Data
+## Project 4: Flask App
 
 >## Table of Contents
-* [About Project 7](#about-project-7)
-* [Project 7 Tools](#project-7-tools)
-* [Project 7 Installation](#project-7-installation)
-* [Project 7 Files](#project-7-files)
-* [About Project 8](#about-project-8)
-* [Project 8 Tools](#project-8-tools)
-* [Project 8 Installation](#project-8-installation)
-* [Project 8 Files](#project-8-files)
+* [About Housing Prices](#about-housing-prices)
+* [Housing Prices Tools](#housing-prices-tools)
+* [Housing Prices Installation](#housing-prices-installation)
+* [Housing Prices Files](#housing-prices-files)
+* [About MRTS Data](#mrts-data)
+* [MRTS Tools](#mrts-tools)
+* [MRTS Installation](#mrts-installation)
+* [MRTS Files](#mrts-files)
 * [Contact Information](#contact)
 
 
