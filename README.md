@@ -3,7 +3,7 @@
 ### Housing Prices ([About](#about-housing-prices), [Tools](#housing-prices-tools), [Installation](#housing-prices-installation), [Files](#housing-prices-files))
 ### MRTS Data ([About](#mrts-data), [Tools](#mrts-tools), [Installation](#mrts-installation), [Files](#mrts-files))
 ### Flask App
-### ([Contact Information](#contact))
+### [Contact Information](#contact)
 
 <a class="anchor" id="about-housing-prices"></a>
 >## About Housing Prices
