@@ -9,7 +9,6 @@
 * [Housing Prices Tools](#housing-prices-tools)
 * [Housing Prices Installation](#housing-prices-installation)
 * [Housing Prices Files](#housing-prices-files)
-
 * [About MRTS Data](#mrts-data)
 * [MRTS Tools](#mrts-tools)
 * [MRTS Installation](#mrts-installation)
