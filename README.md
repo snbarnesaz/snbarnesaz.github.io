@@ -33,7 +33,7 @@ Please see the files below to understand how I installed the necessary resources
 
 [View Housing Prices FINAL Notebook](Housing_Prices_Final.ipynb)
 
-[View Housing Prices_PowerPoint](Housing_Prices_PP.pptx)
+[View Housing Prices_PowerPoint](Housing_Prices_PP.pdf)
 
 
 <a class="anchor" id="about-project-8"></a>
